@@ -15,7 +15,7 @@ Working at Boom + managing a furniture showroom on a weekend bank holiday at sof
 
 ## Education
 
-#### Makers Academy (April to August 2019)
+#### Makers Academy (April - August 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -26,7 +26,7 @@ Working at Boom + managing a furniture showroom on a weekend bank holiday at sof
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### St Chad's College / Durham University (2007-2010)
+#### St Chad's College / Durham University (2007 - 2010)
 
 - Psychology BSc (2:2)
 - Took elective modules in Statistics and Philosophy of Science
@@ -42,5 +42,5 @@ Working at Boom + managing a furniture showroom on a weekend bank holiday at sof
 - Delivered training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council.
 - Performed 6 improvised comedy shows a week to a international audience.
 
-**Sofa.com** (January 2012 to March 2018)   
+**Sofa.com** (January 2012 - March 2018)   
 *Training and Induction Leader*  
