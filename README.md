@@ -1,29 +1,21 @@
-## Your Name
+# BAREBONES CV (WIP) #
+## Rhys Collier
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+After a year performing at an improvised comedy theatre in Amsterdam, I came back to London wanting a fresh challenge, to keep me stimulated and engaged on a daily basis. Be careful what you wish for! Coding is constantly surprising me, I'm finding out what programming languages can do and what I can't yet do constantly and I love it. me  
 
 ## Skills
 
-#### This Skill
+#### Excellent Communicator
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Training/teaching FA and Boom and FA. Getting point across, assessing if you nee Not just getting point across but making changes to how I deliver it as I'm delivering it based on verbal and non-verbal feedback.
 
-- Experience
-- Achievements
-- Evidence
+#### Thrives under pressure
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Working at Boom + managing a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against standard £30k
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April to August 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +26,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### St Chad's College / Durham University (2007-2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Psychology BSc (2:2)
+- Took elective modules in Statistics and Philosophy of Science
 
-#### Any other qualifications
+#### St Paul's School, London (2002 - 2007)
+
+- A-Levels: Maths (A), Physics (A), Economics (A)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Boom Chicago** (April 2018 - January 2019)    
+*Trainer and Performer*
+- Delivered training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council.
+- Performed 6 improvised comedy shows a week to a international audience.
+*Sofa.com** (January 2012 to March 2018)   
+*Training and Induction Leader*  
