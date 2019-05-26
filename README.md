@@ -41,5 +41,6 @@ Working at Boom + managing a furniture showroom on a weekend bank holiday at sof
 *Trainer and Performer*
 - Delivered training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council.
 - Performed 6 improvised comedy shows a week to a international audience.
+
 **Sofa.com** (January 2012 to March 2018)   
 *Training and Induction Leader*  
