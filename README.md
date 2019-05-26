@@ -11,7 +11,7 @@ Training/teaching FA and Boom and FA. Getting point across, assessing if you nee
 
 #### Thrives under pressure
 
-Working at Boom + managing a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against standard £30k
+Working at Boom, creating content on the fly + managing a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against standard £30k
 
 ## Education
 
