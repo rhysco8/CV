@@ -1,7 +1,7 @@
 # BAREBONES CV (WIP) #
 ## Rhys Collier
 
-After a year performing at an improvised comedy theatre in Amsterdam, I came back to London wanting a fresh challenge, to keep me stimulated and engaged on a daily basis. Be careful what you wish for! Coding is constantly surprising me, I'm finding out what programming languages can do and what I can't yet do constantly and I love it. me  
+After a year performing at an improvised comedy theatre in Amsterdam, I came back to London wanting a fresh challenge. I wanted something tht would keep me stimulated and engaged on a daily basis. Be careful what you wish for! Coding is constantly surprising me, I'm finding out what programming languages can do and what I can't yet do constantly and I love it. me  
 
 ## Skills
 
