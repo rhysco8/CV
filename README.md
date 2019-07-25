@@ -43,4 +43,5 @@ Working at Boom, creating content on the fly + managing a furniture showroom on 
 - Performed 6 improvised comedy shows a week to a international audience.
 
 **Sofa.com** (January 2012 - March 2018)   
-*Training and Induction Leader*  
+*Training and Induction Leader*
+- Built Excel forms for calculating shifting daily targets
