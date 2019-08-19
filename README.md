@@ -1,17 +1,23 @@
 # BAREBONES CV (WIP) #
 ## Rhys Collier
 
-After a year performing at an improvised comedy theatre in Amsterdam, I came back to London wanting a fresh challenge. I wanted something tht would keep me stimulated and engaged on a daily basis. Be careful what you wish for! Coding is constantly surprising me, I'm finding out what programming languages can do and what I can't yet do constantly and I love it. me  
+After a year performing at an improvised comedy theatre in Amsterdam, I came back to London wanting a fresh challenge. I wanted something that would keep me stimulated and engaged on a daily basis. Be careful what you wish for! Coding is constantly surprising me, I'm finding out what programming languages can do and what I can't yet do constantly and I love it.
 
 ## Skills
 
 #### Excellent Communicator
 
-Training/teaching FA and Boom. Getting point across, assessing if you nee Not just getting point across but making changes to how I deliver it as I'm delivering it based on verbal and non-verbal feedback.
+Training/teaching FA and Boom Chicago. Getting point across, assessing if you nee Not just getting point across but making changes to how I deliver it as I'm delivering it based on verbal and non-verbal feedback.
 
 #### Thrives under pressure
 
-Working at Boom, creating content on the fly + managing a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against standard £30k
+Working at Boom Chicago, creating content on the fly + managing a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against standard £30k
+
+## Projects
+
+| Name     | Description    | Timeframe | Technologies | Testing |
+| :------- | :------------- | :-------- | :----------- | ------- |
+| Acebook  |       |
 
 ## Education
 
@@ -23,12 +29,12 @@ Working at Boom, creating content on the fly + managing a furniture showroom on 
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, Swift
 - RSpec, Jasmine
 
 #### St Chad's College / Durham University (2007 - 2010)
 
-- Psychology BSc (2:2)
+- Psychology BSc
 - Took elective modules in Statistics and Philosophy of Science
 
 #### St Paul's School, London (2002 - 2007)
