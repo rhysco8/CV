@@ -7,7 +7,7 @@ After a year performing at an improvised comedy theatre in Amsterdam, I came bac
 
 #### Excellent Communicator
 
-Training/teaching FA and Boom and FA. Getting point across, assessing if you nee Not just getting point across but making changes to how I deliver it as I'm delivering it based on verbal and non-verbal feedback.
+Training/teaching FA and Boom. Getting point across, assessing if you nee Not just getting point across but making changes to how I deliver it as I'm delivering it based on verbal and non-verbal feedback.
 
 #### Thrives under pressure
 
@@ -40,7 +40,7 @@ Working at Boom, creating content on the fly + managing a furniture showroom on 
 **Boom Chicago** (April 2018 - January 2019)    
 *Trainer and Performer*
 - Delivered training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council.
-- Performed 6 improvised comedy shows a week to a international audience.
+- Performed 6 improvised comedy shows a week to an international audience.
 
 **Sofa.com** (January 2012 - March 2018)   
 *Training and Induction Leader*  
