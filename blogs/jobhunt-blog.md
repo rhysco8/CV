@@ -24,7 +24,7 @@ There's some larger topics I'll want to write about as well which I'll create se
 
 - [ ] Do an hour of Gilded Rose design project
 - [x] Meditate for 10 minutes
-- [ ] Do 20 minutes of exercise
+- [x] Do 20 minutes of exercise
 - [ ] Update CV
 - [ ] Update pinned repos on Github
 - [x] Set up Huntr, list a job on it
@@ -54,3 +54,20 @@ Putting exercise and meditation on there reminds me to look after my general wel
 ##### Articles I've read today
 
 *  [From Codeschool to Candidate](https://medium.com/@perrysetgo/making-the-jump-from-codeschool-to-candidate-8881ad3563bd)
+  * Food for thought about establishing your own niche within the code community and how that benefits you in the long term
+
+#### Day 2 - 20th August
+
+- [ ] Do an hour of Gilded Rose design project
+- [ ] Meditate for 10 minutes
+- [ ] Do 20 minutes of exercise
+- [ ] Sit a Review
+- [ ] Add Projects section to CV
+- [ ] Research 2 of the companies at the Careers Fair
+- [ ] Write a blog about why I chose to move into coding
+
+##### Articles I've read today
+* [The Agile Sweatshop](https://www.forbes.com/sites/stevedenning/2019/08/18/another-form-of-fake-agile-the-agile-sweatshop/amp/)
+  * Article about how Amazon's Fulfillment Centers are not Agile while other parts of the company are.
+  * Makes a good point about how if a whole firm is not run in an Agile way and there are parts of a company that are run with bureaucratic mindsets, the company will likely fairly soon slide back into bureaucracy. Teams will stop being self-organising and the firm is more focussed on maximising shareholder value than delivering value to the customer.
+  * Counter to this though, as was discussed at the XTC meeting on Dark Agile two weeks ago, the Agile methodology is laid out in the Agile Manifesto for Software Development. That may have an impact on how transferable the ideas in it are to other parts of a company such as HR, strategy and finance, thus making it harder to make a company wholly Agile.
