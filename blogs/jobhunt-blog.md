@@ -61,11 +61,17 @@ Putting exercise and meditation on there reminds me to look after my general wel
 
 - [ ] Do an hour of Gilded Rose design project
 - [ ] Meditate for 10 minutes
-- [ ] Do 20 minutes of exercise
-- [ ] Sit a Review
+- [x] Do 20 minutes of exercise
+- [x] Sit a Review
 - [ ] Add Projects section to CV
 - [ ] Research 2 of the companies at the Careers Fair
 - [ ] Write a blog about why I chose to move into coding
+
+
+* Good review. Glad I practiced setting up a couple of projects beforehand to get that part down, even tho it's only a small part of the project. I took on board the feedback from my previous one about asking for edge cases and refactoring my spec file to include a `before(:each)` block.
+  * The reviewer said my process was 95% of the way there which is encouraging. Hopefully his more detailed feedback can shine a light on that final 5%.
+  * His point about using the `it` statements as commit messages when committing straight after making a test green was helpful.
+
 
 ##### Articles I've read today
 * [The Agile Sweatshop](https://www.forbes.com/sites/stevedenning/2019/08/18/another-form-of-fake-agile-the-agile-sweatshop/amp/)
