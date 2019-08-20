@@ -53,7 +53,7 @@ Putting exercise and meditation on there reminds me to look after my general wel
 
 ##### Articles I've read today
 
-*  [From Codeschool to Candidate](https://medium.com/@perrysetgo/making-the-jump-from-codeschool-to-candidate-8881ad3563bd)
+* [From Codeschool to Candidate](https://medium.com/@perrysetgo/making-the-jump-from-codeschool-to-candidate-8881ad3563bd)
   * Food for thought about establishing your own niche within the code community and how that benefits you in the long term
   * Made good points about going to conferences, as you have a deeper engagement with a subject that way and on how to leverage your previous experience for the skills you've demonstrated.
 
