@@ -72,9 +72,27 @@ Putting exercise and meditation on there reminds me to look after my general wel
   * The reviewer said my process was 95% of the way there which is encouraging. Hopefully his more detailed feedback can shine a light on that final 5%.
   * His point about using the `it` statements as commit messages when committing straight after making a test green was helpful.
 
-
 ##### Articles I've read today
 * [The Agile Sweatshop](https://www.forbes.com/sites/stevedenning/2019/08/18/another-form-of-fake-agile-the-agile-sweatshop/amp/)
   * Article about how Amazon's Fulfillment Centers are not Agile while other parts of the company are.
   * Makes a good point about how if a whole firm is not run in an Agile way and there are parts of a company that are run with bureaucratic mindsets, the company will likely fairly soon slide back into bureaucracy. Teams will stop being self-organising and the firm is more focussed on maximising shareholder value than delivering value to the customer.
   * Counter to this though, as was discussed at the XTC meeting on Dark Agile two weeks ago, the Agile methodology is laid out in the Agile Manifesto for Software Development. That may have an impact on how transferable the ideas in it are to other parts of a company such as HR, strategy and finance, thus making it harder to make a company wholly Agile.
+
+#### Day 3 - 21st August
+
+- [ ] Meditate for 10 minutes
+- [x] Do 20 minutes of exercise
+- [ ] Add Projects section to CV
+- [ ] Research companies at the Careers Fair
+- [ ] Attend Careers Fair
+
+
+* Good to hear that other people are feeling nervous about the Careers Fair. Someone made an interesting point about how other people saw it as we're going from collaborating for 12 weeks to now competing.
+* My expectation is to have at least 1 interesting conversation with an employer (other people wanted to have a meaningful conversation but I'm happy to stick with interesting).
+
+##### Articles I've read today
+* [The N+1 Query](https://www.sitepoint.com/silver-bullet-n1-problem/)
+  * Database queries that need to load the children of a parent-child relationship encounter this problem.
+  * Each query you make to a database takes time, so the more you make, the longer it takes to return all the data. Rather than making 100 queries each returning 1 piece of information, it's preferable to make 1 query that returns 100 pieces of information.
+    * Say you have a blog app, and you're using an ORM to display the 5 (the *n* in this example) most recent articles, so you send a query (the *+1*) to return those 5 articles and then for each of the 5 articles a query is sent to return the author of the article.
+    * A more efficient way is to eager load associations, so your initial query (using a Rails ORM) `includes` the authors. This way you're making 2 queries, 1 to retrieve the articles and then querying the authors of those articles within what gets returned.
