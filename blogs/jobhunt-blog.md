@@ -20,7 +20,7 @@ There's some larger topics I'll want to write about as well which I'll create se
 * Meditate for 10 minutes
 * Do 20 minutes of exercise
 
-#### Day 1 - 19th August
+### Day 1 - 19th August
 
 - [ ] Do an hour of Gilded Rose design project
 - [x] Meditate for 10 minutes
@@ -57,7 +57,7 @@ Putting exercise and meditation on there reminds me to look after my general wel
   * Food for thought about establishing your own niche within the code community and how that benefits you in the long term
   * Made good points about going to conferences, as you have a deeper engagement with a subject that way and on how to leverage your previous experience for the skills you've demonstrated.
 
-#### Day 2 - 20th August
+### Day 2 - 20th August
 
 - [ ] Do an hour of Gilded Rose design project
 - [ ] Meditate for 10 minutes
@@ -78,17 +78,22 @@ Putting exercise and meditation on there reminds me to look after my general wel
   * Makes a good point about how if a whole firm is not run in an Agile way and there are parts of a company that are run with bureaucratic mindsets, the company will likely fairly soon slide back into bureaucracy. Teams will stop being self-organising and the firm is more focussed on maximising shareholder value than delivering value to the customer.
   * Counter to this though, as was discussed at the XTC meeting on Dark Agile two weeks ago, the Agile methodology is laid out in the Agile Manifesto for Software Development. That may have an impact on how transferable the ideas in it are to other parts of a company such as HR, strategy and finance, thus making it harder to make a company wholly Agile.
 
-#### Day 3 - 21st August
+### Day 3 - 21st August
 
 - [ ] Meditate for 10 minutes
 - [x] Do 20 minutes of exercise
 - [ ] Add Projects section to CV
-- [ ] Research companies at the Careers Fair
-- [ ] Attend Careers Fair
+- [x] Research companies at the Careers Fair
+- [x] Attend Careers Fair
 
 
 * Good to hear that other people are feeling nervous about the Careers Fair. Someone made an interesting point about how other people saw it as we're going from collaborating for 12 weeks to now competing.
 * My expectation is to have at least 1 interesting conversation with an employer (other people wanted to have a meaningful conversation but I'm happy to stick with interesting).
+
+##### Careers Fair
+
+* I was really surprised by a couple of the companies at the Careers Fair. Alfa I already knew about after Brannan's talk last week, but PensionBee was one that on paper I thought would be a fairly dry place to work. However I really liked what Johnathan (the CTO) and Bat (a former Maker who has been there for a couple of years) had to say about their onboarding process and culture.
+
 
 ##### Articles I've read today
 * [The N+1 Query](https://www.sitepoint.com/silver-bullet-n1-problem/)
@@ -96,3 +101,21 @@ Putting exercise and meditation on there reminds me to look after my general wel
   * Each query you make to a database takes time, so the more you make, the longer it takes to return all the data. Rather than making 100 queries each returning 1 piece of information, it's preferable to make 1 query that returns 100 pieces of information.
     * Say you have a blog app, and you're using an ORM to display the 5 (the *n* in this example) most recent articles, so you send a query (the *+1*) to return those 5 articles and then for each of the 5 articles a query is sent to return the author of the article.
     * A more efficient way is to eager load associations, so your initial query (using a Rails ORM) `includes` the authors. This way you're making 2 queries, 1 to retrieve the articles and then querying the authors of those articles within what gets returned.
+
+### Day 4 - 22nd August
+
+- [ ] Meditate for 10 minutes
+- [x] Do 20 minutes of exercise
+- [ ] Add Projects section to CV
+- [x] Attend Strategy coaching session
+- [x] Meet Laurie at Spotify for lunch
+- [ ] Prep application for Alfa
+- [ ] Complete Profile section of Jobs Hub
+
+##### Strategy Coaching
+
+Max gave me these goal setting prompts:
+  1. Investigate the job specs for your dream job (thinking 3-5 years ahead). Suggest a min sample size of 10 job specs.
+  2. Identify the type of job that you can apply to and use as a stepping stone towards your goal
+  3. Investigate the job specs for the entry level roles that will act as a stepping stone towards your dream job. Suggest a min sample size of 10 job specs.
+  4. Start working on a project that demonstrates your grasp of the most relevant technologies, processes and behaviours.
