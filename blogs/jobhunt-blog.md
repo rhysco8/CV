@@ -104,7 +104,7 @@ Putting exercise and meditation on there reminds me to look after my general wel
 
 ### Day 4 - 22nd August
 
-- [ ] Meditate for 10 minutes
+- [x] Meditate for 10 minutes
 - [x] Do 20 minutes of exercise
 - [ ] Add Projects section to CV
 - [x] Attend Strategy coaching session
@@ -129,3 +129,6 @@ Max gave me these goal setting prompts:
 - [ ] Submit application for Alfa
 - [ ] Submit application for PensionBee
 - [ ] Submit application for yu life
+
+##### Articles I've read today
+* [The End of Agile](https://www.forbes.com/sites/cognitiveworld/2019/08/23/the-end-of-agile/amp/)
