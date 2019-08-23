@@ -119,3 +119,13 @@ Max gave me these goal setting prompts:
   2. Identify the type of job that you can apply to and use as a stepping stone towards your goal
   3. Investigate the job specs for the entry level roles that will act as a stepping stone towards your dream job. Suggest a min sample size of 10 job specs.
   4. Start working on a project that demonstrates your grasp of the most relevant technologies, processes and behaviours.
+
+### Day 5 - 23rd August
+
+- [ ] Meditate for 10 minutes
+- [x] Do 20 minutes of exercise
+- [ ] Add Projects section to CV
+- [ ] Complete Profile section of Jobs Hub
+- [ ] Submit application for Alfa
+- [ ] Submit application for PensionBee
+- [ ] Submit application for yu life
