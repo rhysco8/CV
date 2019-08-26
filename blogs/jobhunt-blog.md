@@ -109,7 +109,7 @@ Putting exercise and meditation on there reminds me to look after my general wel
 - [ ] Add Projects section to CV
 - [x] Attend Strategy coaching session
 - [x] Meet Laurie at Spotify for lunch
-- [ ] Prep application for Alfa
+- [x] Prep application for Alfa
 - [ ] Complete Profile section of Jobs Hub
 
 ##### Strategy Coaching
@@ -125,7 +125,7 @@ Max gave me these goal setting prompts:
 - [ ] Meditate for 10 minutes
 - [x] Do 20 minutes of exercise
 - [ ] Add Projects section to CV
-- [ ] Complete Profile section of Jobs Hub
+- [x] Complete Profile section of Jobs Hub
 - [ ] Submit application for Alfa
 - [ ] Submit application for PensionBee
 - [ ] Submit application for yu life
