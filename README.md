@@ -1,9 +1,10 @@
 <h1 align=center> Rhys Collier </h1>
 
 <div align=center><a href=https://www.linkedin.com/in/rhys-collier-07309623/>
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="LinkedIn" hspace="20" height="30"></a>
-<a href=https://sourcerer.io/rhysco8/>
-<img src="https://sourcerer.io/icons/logo-sharing.svg" alt="Sourcerer" height="30" hspace="20"></a><br><br></div>
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="LinkedIn" hspace="20" height="32"></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="32px" alt="Sourcerer"></a></a><br><br></div>
+
+---
 
 After a year performing at an improvised comedy theatre in Amsterdam, I came back to London wanting a fresh challenge. I wanted something that would keep me stimulated and engaged on a daily basis. Be careful what you wish for! Coding is constantly surprising me, I'm finding out what programming languages can do and what I can't yet do constantly and I love it.
 
@@ -18,6 +19,16 @@ Training/teaching FA and Boom Chicago. Getting point across, assessing if you ne
 Working at Boom Chicago, creating content on the fly + managing a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against standard £30k
 
 ## Projects
+
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Ruby-305%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/JavaScript-58%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Swift-44%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/HTML-63%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/CSS-57%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/SQL-41%20commits-orange.svg" alt=""></a>
+
+---
+
 
 | Name     | Description    | Technologies | Test Suites/CI/CD used |
 | :------- | :------------- | :----------- | :--------------------- |
