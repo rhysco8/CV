@@ -21,7 +21,7 @@ Working at Boom Chicago, creating content on the fly + managing a furniture show
 
 | Name     | Description    | Technologies | Test Suites/CI/CD used |
 | :------- | :------------- | :----------- | :--------------------- |
-| [Guilt Tripper](https://github.com/rhysco8/greenpeas-uk) | Makers final project creating an app that guilt trips a user out of buying a product containing palm oil by showing pictures of sad orangutans. | Swift, Xcode | XCTest |
+| [Guilt Tripper](https://github.com/rachjgriff/greenpeas-uk) | Makers final project creating an app that guilt trips a user out of buying a product containing palm oil by showing pictures of sad orangutans. | Swift, Xcode | XCTest |
 | [Acebook](https://github.com/bengscott2/acebook-livewire)  | A group project building a Facebook clone using Rails. Users can post, like and comment, with all these interactions stored on a database. | Ruby on Rails, Ruby | Heroku, Travis CI, RSpec, SimpleCov, Rubocop, ScaffoLint, RubyCritic |
 
 
