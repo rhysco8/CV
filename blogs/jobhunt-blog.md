@@ -7,10 +7,10 @@ There's some larger topics I'll want to write about as well which I'll create se
 
 ### Tasks for week 1
 
-- [ ] Attend Careers Fair
+- [x] Attend Careers Fair
 - [ ] Update CV
 - [ ] Update LinkedIn
-- [ ] Apply for Careers Fair jobs
+- [x] Apply for Careers Fair jobs
 - [x] Decide on what coding project I want to work on this week
 - [ ] Write a blog about why I chose to move into coding
 
@@ -122,13 +122,67 @@ Max gave me these goal setting prompts:
 
 ### Day 5 - 23rd August
 
-- [ ] Meditate for 10 minutes
+- [x] Meditate for 10 minutes
 - [x] Do 20 minutes of exercise
 - [ ] Add Projects section to CV
 - [x] Complete Profile section of Jobs Hub
-- [ ] Submit application for Alfa
+- [x] Submit application for Alfa
 - [ ] Submit application for PensionBee
 - [ ] Submit application for yu life
 
 ##### Articles I've read today
 * [The End of Agile](https://www.forbes.com/sites/cognitiveworld/2019/08/23/the-end-of-agile/amp/)
+
+## Week 2
+
+### Tasks for week 2
+
+- [ ] Update CV
+- [ ] Update LinkedIn
+- [x] Decide on what coding project I want to work on this week
+- [ ] Write a blog about why I chose to move into coding
+
+### Daily expectations
+
+* Do an hour of coding each day - work on a React project
+* Meditate for 10 minutes
+* Do 20 minutes of exercise
+
+### Day 9 - 27th August
+
+- [x] Start React tutorial
+- [ ] Meditate for 10 minutes
+- [x] Do 20 minutes of exercise
+- [x] Add Projects section to CV
+
+
+* Working on the React tutorial today, building a tic-tac-toe game, with a view to completing it on Thursday and then starting my own project in React which will run into next week.
+  * Jake Napper, a former Maker, shared [this tutorial](https://www.youtube.com/watch?v=Ke90Tje7VS0) that he found helpful.
+* Added Acebook and Guilt Tripper projects to CV
+
+### Day 10 - 28th August
+
+- [ ] Meditate for 10 minutes
+- [x] Do 20 minutes of exercise
+- [x] Attend lunchtime talk on tech interviews
+- [x] Attend Mock interview with Max
+- [x] Pair with Rachel on adding feature tests to our Makers final project
+
+
+* There's a fair bit of interview prep today, hopefully gain some insight into how to go about answering questions from the lunchtime talk.
+* Not looking forward to the mock interview, almost didn't book it but grateful to Becks for getting me to do it. That apprehension is exactly the reason I need to do it!
+   * Also good to get some feedback on my CV. I've added a projects section but need more projects to add to it and also more skills, hopefully Max can give me some pointers for that.
+* Tech interview talk was really helpful, got greater insight
+into how to get a foot in the door and approach companies.
+* Mock interview went better than I thought. Need to work on my story about how I got into coding and not go up at the end of my sentences.
+
+### Day 11 - 29th August
+
+- [x] Meditate for 10 minutes
+- [x] Do 20 minutes of exercise
+- [x] Pair with Rachel on updating README and tidying up our Makers final project
+
+* Rachel and I finished working on the feature tests we'd been working on yesterday. We decided to fork the initial repo so that the other teammates weren't surprised in an interview (or when prepping for one) by any new features/files.
+  * I removed the Kingfisher pod, which was straight forward, running `pod install` after removing `pod Kingfisher` from the `Podfile`
+  * [gitignore.io](https://www.gitignore.io/) was really helpful for generating a `.gitignore` - something we should have done when we first set up the repo. All the `xcuserdata` files were not needed. I removed them from the current codebase by running `git rm -r --cached .` to remove all files from the file index and then `git add .` to restore all the files except the ignored ones - much simpler than manually removing the unwanted files.
+      * Ran `git rm -rn --cached .` first just to do a dry run (with `-n` flag)

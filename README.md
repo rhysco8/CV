@@ -3,6 +3,7 @@
 <div align=center><a href=https://www.linkedin.com/in/rhys-collier-07309623/>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="LinkedIn" hspace="20" height="32"></a>
 <a href="https://sourcerer.io/rhysco8"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="32px" alt="Sourcerer"></a></a><br><br></div>
+
 ---
 
 After a year performing at an improvised comedy theatre in Amsterdam, I came back to London wanting a fresh challenge. I wanted something that would keep me stimulated and engaged on a daily basis. Be careful what you wish for! Coding is constantly surprising me, I'm finding out what programming languages can do and what I can't yet do constantly and I love it.
