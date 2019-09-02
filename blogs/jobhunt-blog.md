@@ -186,3 +186,23 @@ into how to get a foot in the door and approach companies.
   * I removed the Kingfisher pod, which was straight forward, running `pod install` after removing `pod Kingfisher` from the `Podfile`
   * [gitignore.io](https://www.gitignore.io/) was really helpful for generating a `.gitignore` - something we should have done when we first set up the repo. All the `xcuserdata` files were not needed. I removed them from the current codebase by running `git rm -r --cached .` to remove all files from the file index and then `git add .` to restore all the files except the ignored ones - much simpler than manually removing the unwanted files.
       * Ran `git rm -rn --cached .` first just to do a dry run (with `-n` flag)
+
+## Week 3
+
+### Tasks for week 3
+
+- [ ] Update CV
+- [ ] Update LinkedIn
+- [x] Decide on what coding project I want to work this week
+- [ ] Research job I want to have in 5 years, reverse engineer how to get there and look at what jobs I should get now are looking for.
+
+### Daily expectations
+
+* Do an hour of coding each day - work on a React project
+* Meditate for 10 minutes
+
+### Day 15 - 2nd September
+
+- [ ] Finish React tutorial
+- [ ] Meditate for 10 minutes
+- [x] Do 20 minutes of exercise
