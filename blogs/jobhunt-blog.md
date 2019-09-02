@@ -182,6 +182,7 @@ into how to get a foot in the door and approach companies.
 - [x] Do 20 minutes of exercise
 - [x] Pair with Rachel on updating README and tidying up our Makers final project
 
+
 * Rachel and I finished working on the feature tests we'd been working on yesterday. We decided to fork the initial repo so that the other teammates weren't surprised in an interview (or when prepping for one) by any new features/files.
   * I removed the Kingfisher pod, which was straight forward, running `pod install` after removing `pod Kingfisher` from the `Podfile`
   * [gitignore.io](https://www.gitignore.io/) was really helpful for generating a `.gitignore` - something we should have done when we first set up the repo. All the `xcuserdata` files were not needed. I removed them from the current codebase by running `git rm -r --cached .` to remove all files from the file index and then `git add .` to restore all the files except the ignored ones - much simpler than manually removing the unwanted files.
@@ -203,6 +204,10 @@ into how to get a foot in the door and approach companies.
 
 ### Day 15 - 2nd September
 
-- [ ] Finish React tutorial
+- [x] Finish React tutorial
 - [ ] Meditate for 10 minutes
 - [x] Do 20 minutes of exercise
+
+
+* Completed the [React tutorial](https://reactjs.org/tutorial/tutorial.html#what-is-react), [repo here](https://github.com/rhysco8/react-tic-tac-toe). Feels like ages since I did any work in JavaScript so this project was a nice way to ease back into general JS syntax, plus then learning React on top of that.
+  * I'm building up notes about how to use React in Bear so that I have my own glossary and documentation on how to use it.
