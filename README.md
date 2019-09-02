@@ -12,19 +12,19 @@ After a year performing at an improvised comedy theatre in Amsterdam, I came bac
 
 #### Excellent Communicator
 
-Training/teaching FA and Boom Chicago. Getting point across, assessing if you nee Not just getting point across but making changes to how I deliver it as I'm delivering it based on verbal and non-verbal feedback.
+Training/teaching FA and Boom Chicago. Use verbal and non-verbal feedback to assess if I'm being understood and make change to how I'm delivering my point.
 
 #### Thrives under pressure
 
-Working at Boom Chicago, creating content on the fly + managing a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against standard £30k
+Working at Boom Chicago, creating content on the fly + managing a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against standard £30k.
 
 ## Projects
 
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Ruby-305%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/JavaScript-58%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Swift-44%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/HTML-63%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/CSS-57%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Ruby-310%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/JavaScript-69%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Swift-28%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/HTML-67%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/CSS-61%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/SQL-41%20commits-orange.svg" alt=""></a>
 
 ---
