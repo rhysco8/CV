@@ -3,6 +3,12 @@
 This blog is probably more of a tracker/todo list for my progress looking for my first developer role. I'll list what I want to achieve each week and my goals for each day. I'll also add any thoughts/observations/ephemera plus articles I've read.
 There's some larger topics I'll want to write about as well which I'll create separate blogs for and link to them from here.
 
+## Overview
+
+  * [Week 1](#Week-1)
+  * [Week 2](#Week-2)
+  * [Week 3](#Week-3)
+
 ## Week 1
 
 ### Tasks for week 1
