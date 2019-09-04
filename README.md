@@ -16,7 +16,7 @@ Training/teaching FA and Boom Chicago. Use verbal and non-verbal feedback to ass
 
 #### Thrives under pressure
 
-Working at Boom Chicago, creating content on the fly + managing a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against standard £30k.
+Working at Boom Chicago, creating content on the fly + managing a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against a typical daily turnover of £30k.
 
 ## Projects
 
@@ -44,15 +44,18 @@ Working at Boom Chicago, creating content on the fly + managing a furniture show
 - Fast, independent learner
 - Great collaborator
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, Swift
-- RSpec, Jasmine
+
+- Worked using these practices and methodologies:
+  - OOP, TDD, MVC, BDD
+  - Agile/XP
+- Worked with these technologies:
+  - Ruby, Rails, JavaScript, Swift
+  - RSpec, Jasmine
 
 #### St Chad's College / Durham University (2007 - 2010)
 
 - Psychology BSc
-- Took elective modules in Statistics and Philosophy of Science
+- Elective modules in Statistics and Philosophy of Science
 
 #### St Paul's School, London (2002 - 2007)
 
@@ -62,9 +65,12 @@ Working at Boom Chicago, creating content on the fly + managing a furniture show
 
 **Boom Chicago** (April 2018 - January 2019)    
 *Trainer and Performer*
-- Delivered training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council.
+- Delivered corporate training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council.
 - Performed 6 improvised comedy shows a week to an international audience.
 
 **Sofa.com** (January 2012 - March 2018)   
 *Training and Induction Leader*
-- Built Excel forms for calculating shifting daily targets
+- Onboarded new sales team members at flagship Chelsea showroom.
+- Maintained training documents to reflect frequent changes to product line.
+- Acted as stakeholder to ERP team, due to my extensive in-depth product and processes knowledge.
+- I created Excel forms for calculating shifting daily targets to better track the showroom daily and monthly targets
