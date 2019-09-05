@@ -217,3 +217,28 @@ into how to get a foot in the door and approach companies.
 
 * Completed the [React tutorial](https://reactjs.org/tutorial/tutorial.html#what-is-react), [repo here](https://github.com/rhysco8/react-tic-tac-toe). Feels like ages since I did any work in JavaScript so this project was a nice way to ease back into general JS syntax, plus then learning React on top of that.
   * I'm building up notes about how to use React in Bear so that I have my own glossary and documentation on how to use it.
+
+### Day 17 - 4th September
+
+- [x] COme up with React project
+- [x] Meditate for 10 minutes
+- [ ] Do 20 minutes of exercise
+- [ ] Prepare CV for Nested
+
+
+* Came across a post on Alumni Slack for a job at Nested. Looks like a positive company, disrupting property market by offering home buyers an advance on their property so they're not tethered to selling their current property when going to buy their new place.
+  * Someone I know from school works there as an engineering manager - Morgan Sadr-Hashemi. I played on the basketball team with him. Not sure if he'll remember me but I'll reach out to him on LinkedIn.
+* Came up with the idea for a stock taking idea, reflecting on what would have helped me back when I was at Sofa.com. Will build it in React and allow users to either create a stock list by recording items in store or perform a stocktake based on an existing list.
+  * Deciding on the name, `What's In Store` beat `Taking Stock`. Now thinking if just `InStore` would be cleaner.
+* Spoke to Lucian and Luigi about how to unit test in React. They recommended `enzyme` and pointed me towards the documentation.
+
+### Day 18 - 5th September
+
+- [x] Work on stock take app
+- [ ] Meditate for 10 minutes
+- [x] Do 20 minutes of exercise
+- [ ] Send one page CV to Ainsley at Nested
+
+
+* Continued working on my CV, getting it into one page CV.
+* Spent 45 mins in afternoon setting up `jest`, `enzyme` (and `jset-enzyme` in WIS app). Documentation so far looks fairly straightforward, but will see what it's like once I start writing 'proper' tests.
