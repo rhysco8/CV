@@ -241,4 +241,5 @@ into how to get a foot in the door and approach companies.
 
 
 * Continued working on my CV, getting it into one page CV.
-* Spent 45 mins in afternoon setting up `jest`, `enzyme` (and `jset-enzyme` in WIS app). Documentation so far looks fairly straightforward, but will see what it's like once I start writing 'proper' tests.
+* Spent 45 mins in afternoon setting up `jest`, `enzyme` (and `jest-enzyme`) in WIS app. Documentation so far looks fairly straightforward, but will see what it's like once I start writing actual tests.
+* Documented my steps in creating the app and setting up so I can refer back to them in future. Help develop my learning process.
