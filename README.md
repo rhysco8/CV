@@ -30,7 +30,8 @@ After a year performing at an improvised comedy theatre in Amsterdam, I came bac
 
 | Name     | Description    | Technologies | Test Suites/CI/CD used |
 | :------- | :------------- | :----------- | :--------------------- |
-| [Guilt Tripper](https://github.com/rachjgriff/greenpeas-uk) | Makers final project creating an app that guilt trips a user out of buying a product containing palm oil by showing pictures of sad orangutans. | Swift, Xcode | XCTest |
+| [Guilt Tripper](https://github.com/rachjgriff/greenpeas-uk) | Makers final project creating an eco-friendly app that guilt trips a user out of buying a product that contains palm oil. | Swift, Xcode | XCTest, Code Coverage |
+| [What's In Store](https://github.com/rhysco8/whats-in-store) | A personal project currently in progress to teach myself React, inspired by my experience in retail. What's In Store will allows users to perform an in-store stocktake and export the results as an Excel file or check off items against an imported spreadsheet of items. | React | Jest, Enzyme |
 | [Acebook](https://github.com/bengscott2/acebook-livewire)  | A group project building a Facebook clone using Rails. Users can post, like and comment, with all these interactions stored on a database. | Ruby on Rails, Ruby | Heroku, Travis CI, RSpec, SimpleCov, Rubocop, ScaffoLint, RubyCritic |
 
 
@@ -40,27 +41,32 @@ After a year performing at an improvised comedy theatre in Amsterdam, I came bac
 
 Training/teaching FA and Boom Chicago. Use verbal and non-verbal feedback to assess if I'm being understood and make change to how I'm delivering my point.
 
-#### Thrives under pressure
+<!-- #### Thrive Under Pressure
 
-Working at Boom Chicago, creating content on the fly + managing a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against a typical daily turnover of £30k.
+Working at Boom Chicago, creating content on the fly + Would often involve managing staff levels between phone and showroom sales channels to offer the best customer experience. managing  a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against a typical daily turnover of £30k.
+
+#### Customer Service
+
+Working in furniture retail
+
+#### Practical Problem Solver
+
+Leading mob sessions during the Makers final project when the group was blocked, diagramming our app and breaking down combining tht with the what the group had researched to guide us through how to unblock ourselves and apply relevant, useful information  -->
 
 ## Education
 
-#### Makers Academy (April - August 2019)
+#### Makers Academy, London (April - August 2019)
 
-- Curious and passionate about code
+- Curious and passionate about code and best practices
 - Fast, independent learner
 - Great collaborator
-
-
-- Worked using these practices and methodologies:
+- Methodologies and technologies learnt:
   - OOP, TDD, MVC, BDD
   - Agile/XP
-- Worked with these technologies:
   - Ruby, Rails, JavaScript, Swift
   - RSpec, Jasmine
 
-#### St Chad's College / Durham University (2007 - 2010)
+#### St Chad's College, Durham University (2007 - 2010)
 
 - Psychology BSc
 - Elective modules in Statistics and Philosophy of Science
@@ -73,12 +79,13 @@ Working at Boom Chicago, creating content on the fly + managing a furniture show
 
 **Boom Chicago** (April 2018 - January 2019)    
 *Trainer and Performer*
-- Delivered corporate training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council.
-- Performed 6 improvised comedy shows a week to an international audience.
+- Delivered corporate training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council
+- Collaboratively devised 2-hour theatre show, pitching and refining ideas and suggesting changes depending on budget and technical limitations
+- Performed 6 improvised comedy shows a week to an international audience
 
 **Sofa.com** (January 2012 - March 2018)   
 *Training and Induction Leader*
-- Onboarded new sales team members at flagship Chelsea showroom.
-- Maintained training documents to reflect frequent changes to product line.
-- Acted as stakeholder to ERP team, due to my extensive in-depth product and processes knowledge.
-- I created Excel forms for calculating shifting daily targets to better track the showroom daily and monthly targets
+- Onboarded new sales team members at flagship Chelsea showroom
+- Acted as stakeholder to ERP team, due to my extensive in-depth product and processes knowledge
+- Created spreadsheet for inputting daily revenue to track daily and monthly targets as well as monthly showroom sales reports to highlight the top performers in the showroom sales team
+- Maintained training documents to reflect frequent changes to product line
