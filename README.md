@@ -17,8 +17,8 @@ After a year performing at an improvised comedy theatre in Amsterdam, I came bac
 ## Projects
 
 <div align=center>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Ruby-310%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/JavaScript-69%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Ruby-307%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/JavaScript-88%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Swift-28%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/HTML-67%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/CSS-61%20commits-orange.svg" alt=""></a>
