@@ -97,19 +97,19 @@ Working in a cast to devise a 2-hour theatre show and then work together to ente
 
 ## Experience
 
-**Boom Chicago** (2018 - 2019)    
-*Trainer and Performer* Amsterdam
+**Boom Chicago** *Amsterdam* (2018 - 2019)    
+*Trainer and Performer*
 - Delivered corporate training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council.
 - Collaboratively devised 2-hour theatre show, pitching ideas and making changes based on budget and technical limitations.
 - Performed 6 improvised comedy shows a week to an international audience.
 
-**The Free Association** (2017 - 2019)    
-*Teacher* London and Amsterdam
+**The Free Association** *London & Amsterdam* (2017 - 2019)    
+*Teacher*
 - Taught beginner and advanced classes of long-form improvisation.
 - Suggested changes to the syllabus that have now been implemented to improve breadth of students improv comedy abilities.
 
-**Sofa.com** (2012 - 2018)   
-*Training and Induction Leader* London
+**Sofa.com** *London* (2012 - 2018)   
+*Training and Induction Leader*
 - Onboarded new sales team members at flagship Chelsea showroom.
 - Acted as stakeholder to ERP team, due to my extensive in-depth product and processes knowledge.
 - Created monthly showroom sales report to highlight the top performers in the showroom sales team.
