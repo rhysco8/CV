@@ -37,9 +37,21 @@ After a year performing at an improvised comedy theatre in Amsterdam, I came bac
 
 ## Skills
 
-#### Excellent Communicator
+#### Be
 
-Training/teaching FA and Boom Chicago. Use verbal and non-verbal feedback to assess if I'm being understood and make change to how I'm delivering my point.
+#### Pair Programming & XP Values
+
+I've found pair programming a great way to work and paired with a lot of fantastic people in my cohort at Makers, communicating actively and with empathy. I've taken action when pairing hasn't gone so well, reflecting with my pair partner on what's not going so well and using that as an opportunity to give and receive actionable, specific and kind feedback, try new approaches and become a better pair partner - with great feedback from my peers!
+
+> "You were very kind and patient"
+
+> "I had a great time pairing with you"
+
+> "You explained your ideas well"
+
+#### Public Speaking
+
+I'm comfortable and experienced speaking in public, whether it's to friends and family at the Makers final project presentation, or to nearly 2,000 people at the Carré theatre in Amsterdam. I have also delivered public speaking workshops for Accenture, giving pointers on best practices for delivering short presentations.
 
 <!-- #### Thrive Under Pressure
 
@@ -47,11 +59,15 @@ Working at Boom Chicago, creating content on the fly + Would often involve manag
 
 #### Customer Service
 
-Working in furniture retail
+Working in furniture retail.
 
 #### Practical Problem Solver
 
-Leading mob sessions during the Makers final project when the group was blocked, diagramming our app and breaking down combining tht with the what the group had researched to guide us through how to unblock ourselves and apply relevant, useful information  -->
+Leading mob sessions during the Makers final project when the group was blocked, diagramming our app and breaking down how it should work. combining that with the what the group had researched to guide us through how to unblock ourselves and apply relevant, useful information  
+
+#### Collaboration
+
+Working in a cast to devise a 2-hour theatre show and then work together to entertain -->
 
 ## Education
 
@@ -77,15 +93,20 @@ Leading mob sessions during the Makers final project when the group was blocked,
 
 ## Experience
 
-**Boom Chicago** (April 2018 - January 2019)    
-*Trainer and Performer*
-- Delivered corporate training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council
-- Collaboratively devised 2-hour theatre show, pitching and refining ideas and suggesting changes depending on budget and technical limitations
-- Performed 6 improvised comedy shows a week to an international audience
+**Boom Chicago** (2018 - 2019)    
+*Trainer and Performer* Amsterdam
+- Delivered corporate training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council.
+- Collaboratively devised 2-hour theatre show, pitching ideas and making changes based on budget and technical limitations.
+- Performed 6 improvised comedy shows a week to an international audience.
 
-**Sofa.com** (January 2012 - March 2018)   
-*Training and Induction Leader*
-- Onboarded new sales team members at flagship Chelsea showroom
-- Acted as stakeholder to ERP team, due to my extensive in-depth product and processes knowledge
-- Created spreadsheet for inputting daily revenue to track daily and monthly targets as well as monthly showroom sales reports to highlight the top performers in the showroom sales team
+**The Free Association** (2017 - 2019)    
+*Teacher* London and Amsterdam
+- Taught beginner and advanced classes of long-form improvisation.
+- Suggested changes to the syllabus that have now been implemented to improve breadth of students improv comedy abilities.
+
+**Sofa.com** (2012 - 2018)   
+*Training and Induction Leader* London
+- Onboarded new sales team members at flagship Chelsea showroom.
+- Acted as stakeholder to ERP team, due to my extensive in-depth product and processes knowledge.
+- Created monthly showroom sales report to highlight the top performers in the showroom sales team.
 - Maintained training documents to reflect frequent changes to product line
