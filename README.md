@@ -37,13 +37,15 @@ After a year performing at an improvised comedy theatre in Amsterdam, I came bac
 
 ## Skills
 
+#### Growth Mindset - quick to learn
+
 #### Development Process - BDD and TDD
 
 I've used an outside-in approach to develop programs, writing feature tests and unit tests to drive development incrementally. I've worked with testing DSLs `RSpec`, `Jasmine`, `Jest`, `Capybara` and `XCTest` using the 'Red, Green, Refactor' process.
 
 #### Pair Programming & XP Values
 
-I've found pair programming a great way to work and paired with a lot of fantastic people in my cohort at Makers, communicating actively and with empathy. I've taken action when pairing hasn't gone so well, reflecting with my pair partner on what's not going so well and using that as an opportunity to give and receive actionable, specific and kind feedback, try new approaches and become a better pair partner - with great feedback from my peers!
+I've found pair programming a great way to work and paired with a lot of fantastic people in my cohort at Makers, communicating actively and with empathy. I've taken action when pairing hasn't gone so well, reflecting with my pair partner on what's not going so well and using that as an opportunity to give and receive actionable, specific and kind feedback, try new approaches and become a better pair partner - with great feedback from my pair partners!
 
 > "You were very kind and patient"
 
@@ -111,4 +113,4 @@ Working in a cast to devise a 2-hour theatre show and then work together to ente
 - Onboarded new sales team members at flagship Chelsea showroom.
 - Acted as stakeholder to ERP team, due to my extensive in-depth product and processes knowledge.
 - Created monthly showroom sales report to highlight the top performers in the showroom sales team.
-- Maintained training documents to reflect frequent changes to product line
+- Maintained training documents to reflect frequent changes to product line.
