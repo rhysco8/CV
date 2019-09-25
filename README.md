@@ -37,7 +37,9 @@ After a year performing at an improvised comedy theatre in Amsterdam, I came bac
 
 ## Skills
 
-#### Be
+#### Development Process - BDD and TDD
+
+I've used an outside-in approach to develop programs, writing feature tests and unit tests to drive development incrementally. I've worked with testing DSLs `RSpec`, `Jasmine`, `Jest`, `Capybara` and `XCTest` using the 'Red, Green, Refactor' process.
 
 #### Pair Programming & XP Values
 
