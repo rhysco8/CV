@@ -106,7 +106,8 @@ Working in a cast to devise a 2-hour theatre show and then work together to ente
 **The Free Association** *London & Amsterdam* (2017 - 2019)    
 *Teacher*
 - Taught beginner and advanced classes of long-form improvisation.
-- Suggested changes to the syllabus that have now been implemented to improve breadth of students improv comedy abilities.
+- Put forward changes to the advanced syllabus to improve the breadth of students improv comedy abilities.
+- Perform with students with different levels of experience, supporting their choices and creating a supportive environment for them to show off their skills.
 
 **Sofa.com** *London* (2012 - 2018)   
 *Training and Induction Leader*
