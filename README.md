@@ -108,8 +108,8 @@ I want to work for a company that fosters a supportive learning environment, giv
 
 ### Other interests
 
-:performing_arts: Improv comedy. I perform a couple of times a month in London as well as at festivals in New York, Edinburgh, Dublin, Barcelona, Tallinn and Uppsala.
+:performing_arts: Improv comedy. I perform with my troupe a couple of times a month in London and have performed with them at festivals in New York, Edinburgh, Dublin, Barcelona, Tallinn and Uppsala.
 
-:closed_lock_with_key: Escape rooms. Nothing like solving puzzles under pressure.
+:closed_lock_with_key: Escape rooms. Nothing like solving puzzles under pressure as a team and we usually find time to fit one in when we're at an improv festival.
 
 :soccer: Big fan of football, in particular Tottenham Hotspur. It's the hope that kills you.
