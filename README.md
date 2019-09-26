@@ -39,6 +39,8 @@ After a year performing at an improvised comedy theatre in Amsterdam, I came bac
 
 #### Growth Mindset - quick to learn
 
+I take an organised approach to learning, setting SMART goals to structure and manage how I learn that allows me to take on new concepts and languages quickly. I was able to code a thermostat web app in `JavaScript` in a week without having used the language before.
+
 #### Development Process - BDD and TDD
 
 I've used an outside-in approach to develop programs, writing feature tests and unit tests to drive development incrementally. I've worked with testing DSLs `RSpec`, `Jasmine`, `Jest`, `Capybara` and `XCTest` using the 'Red, Green, Refactor' process.
