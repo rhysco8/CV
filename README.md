@@ -6,7 +6,7 @@
 
 <div align=center>
 
-[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience)
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [About Me](#AboutMe)
 
 </div>
 
@@ -101,3 +101,15 @@ I'm comfortable and experienced speaking in public, whether it's to friends and 
 - Acted as stakeholder to ERP team, due to my extensive in-depth product and processes knowledge.
 - Created monthly showroom sales report to highlight the top performers in the showroom sales team.
 - Maintained training documents to reflect frequent changes to product line.
+
+## About Me
+
+I want to work for a company that fosters a supportive learning environment, giving me the chance to try things and ~~fail~~ learn. I also want to be working directly with tech, getting a broad general understanding of all the tools used and specialising in a couple of areas.
+
+### Other interests
+
+:performing_arts: Improv comedy. I perform a couple of times a month in London as well as at festivals in New York, Edinburgh, Dublin, Barcelona, Tallinn and Uppsala.
+
+:closed_lock_with_key: Escape rooms. Nothing like solving puzzles under pressure.
+
+:soccer: Big fan of football, in particular Tottenham Hotspur. It's the hope that kills you.
