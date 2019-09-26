@@ -59,22 +59,6 @@ I've found pair programming a great way to work and paired with a lot of fantast
 
 I'm comfortable and experienced speaking in public, whether it's to friends and family at the Makers final project presentation, or to nearly 2,000 people at the Carré theatre in Amsterdam. I have also delivered public speaking workshops for Accenture, giving pointers on best practices for delivering short presentations.
 
-<!-- #### Thrive Under Pressure
-
-Working at Boom Chicago, creating content on the fly + Would often involve managing staff levels between phone and showroom sales channels to offer the best customer experience. managing  a furniture showroom on a weekend bank holiday at sofa.com - turnover of £150k+ against a typical daily turnover of £30k.
-
-#### Customer Service
-
-Working in furniture retail.
-
-#### Practical Problem Solver
-
-Leading mob sessions during the Makers final project when the group was blocked, diagramming our app and breaking down how it should work. combining that with the what the group had researched to guide us through how to unblock ourselves and apply relevant, useful information  
-
-#### Collaboration
-
-Working in a cast to devise a 2-hour theatre show and then work together to entertain -->
-
 ## Education
 
 #### Makers Academy, London (April - August 2019)
