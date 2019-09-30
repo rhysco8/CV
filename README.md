@@ -92,6 +92,7 @@ I'm comfortable and experienced speaking in public, whether it's to friends and 
 **The Free Association** *London & Amsterdam* (2017 - 2019)    
 *Teacher*
 - Taught beginner and advanced classes of long-form improvisation.
+- Gave detailed feedback to students on what they did well and areas to work on.
 - Put forward changes to the advanced syllabus to improve the breadth of students improv comedy abilities.
 - Perform with students with different levels of experience, supporting their choices and creating a supportive environment for them to show off their skills.
 
