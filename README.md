@@ -31,7 +31,7 @@ I am a software engineer who excels under pressure and empowers teams to succeed
 | Name     | Description    | Technologies | Test Suites/CI/CD used |
 | :------- | :------------- | :----------- | :--------------------- |
 | [Guilt Tripper](https://github.com/rachjgriff/greenpeas-uk) | Makers final project creating an eco-friendly app that guilt trips a user out of buying a product that contains palm oil. | Swift, Xcode | XCTest, Code Coverage |
-| [What's In Store](https://github.com/rhysco8/whats-in-store) | A personal project currently in progress to teach myself React, inspired by my experience in retail. What's In Store will allows users to perform an in-store stocktake and export the results as an Excel file or check off items against an imported spreadsheet of items. | React | Jest, Enzyme |
+| [What's In Store](https://github.com/rhysco8/whats-in-store) | A personal project currently in progress to teach myself React, inspired by my experience in retail. What's In Store will allows users to perform an in-store stocktake and export the results as an Excel file or check off items against an imported spreadsheet of items. | React | CircleCI, Jest, Enzyme |
 | [Acebook](https://github.com/bengscott2/acebook-livewire)  | A group project building a Facebook clone using Rails. Users can post, like and comment, with all these interactions stored on a database. | Ruby on Rails, Ruby | Heroku, Travis CI, RSpec, SimpleCov, Rubocop, ScaffoLint, RubyCritic |
 
 
