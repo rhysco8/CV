@@ -12,7 +12,7 @@
 
 ---
 
-After a year performing at an improvised comedy theatre in Amsterdam, I came back to London wanting a fresh challenge. I wanted something that would keep me stimulated and engaged on a daily basis. Be careful what you wish for! Coding is constantly surprising me, I'm finding out what programming languages can do and what I can't yet do constantly and I love it.
+I am a software engineer who excels under pressure and empowers teams to succeed through effective communication and collaboration. I want to work for a company that fosters a supportive learning environment, giving me the chance to try things and ~~fail~~ learn, where I can get a broad general understanding of all the tools used but specialising in a couple of areas.
 
 ## Projects
 
@@ -105,7 +105,7 @@ I'm comfortable and experienced speaking in public, whether it's to friends and 
 
 ## About Me
 
-I want to work for a company that fosters a supportive learning environment, giving me the chance to try things and ~~fail~~ learn. I also want to be working directly with tech, getting a broad general understanding of all the tools used and specialising in a couple of areas.
+After a year performing at an improvised comedy theatre in Amsterdam, I came back to London wanting a fresh challenge. I wanted something that would keep me stimulated and engaged on a daily basis. Be careful what you wish for! Coding is constantly surprising me, I'm finding out what programming languages can do and what I can't yet do constantly and I love it. I want to keep honing my existing skills whilst learning new ones.
 
 ### Other interests
 
