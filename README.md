@@ -17,12 +17,12 @@ I am a software engineer who excels under pressure and empowers teams to succeed
 ## Projects
 
 <div align=center>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Ruby-307%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/JavaScript-88%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Swift-28%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/HTML-67%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/CSS-61%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/SQL-41%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Ruby-330%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/JavaScript-105%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/Swift-26%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/HTML-82%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/CSS-67%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/rhysco8"><img src="https://img.shields.io/badge/SQL-38%20commits-orange.svg" alt=""></a>
 </div>
 
 ---
