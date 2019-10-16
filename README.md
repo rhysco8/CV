@@ -1,6 +1,6 @@
 <h1 align=center> Rhys Collier </h1>
 
-<div align=center><a href=https://www.linkedin.com/in/rhys-collier-07309623/>
+<div align=center><a href=https://www.linkedin.com/in/rhys-collier/>
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="LinkedIn" hspace="20" height="32"></a>
 <a href="https://sourcerer.io/rhysco8"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="32px" alt="Sourcerer"></a></a><br><br></div>
 
