@@ -6,7 +6,7 @@
 
 <div align=center>
 
-[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [About Me](#AboutMe)
+[Projects](#Projects) | [Skills](#Skills) | [Experience](#Experience) | [Education](#Education) | [About Me](#AboutMe)
 
 </div>
 
@@ -57,7 +57,40 @@ I've found pair programming a great way to work and paired with a lot of fantast
 
 #### Public Speaking
 
-I'm comfortable and experienced speaking in public, whether it's to friends and family at the Makers final project presentation, or to nearly 2,000 people at the Carré theatre in Amsterdam. I have also delivered public speaking workshops for Accenture, giving pointers on best practices for delivering short presentations.
+I'm comfortable and experienced speaking in public, whether it's reporting on the work being done in my squad to colleagues at fortnightly QA meetings, or to 1,800 people at the Carré theatre in Amsterdam. I have also delivered public speaking workshops for Accenture, giving pointers on best practices for delivering short presentations.
+
+## Experience
+
+**ClearScore** *London* (2020 - present)  
+*Test Engineer*
+
+- QA for deployment of ClearScore's first machine learning application, writing integration and performance tests.
+- Documented QA process for weekly mobile app releases on iOS and Android to ensure consistency in how this was done by all QAs.
+- Introduced process for raising tech debt tickets and created JIRA dashboard to track them.
+- Worked across teams and functions to enable external partners to test in our UAT environment.
+
+**Boom Chicago** *Amsterdam* (2018 - 2019)  
+*Trainer and Performer*
+
+- Delivered corporate training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council.
+- Collaboratively devised 2-hour theatre show, pitching ideas and making changes based on budget and technical limitations.
+- Performed 6 improvised comedy shows a week to an international audience.
+
+**The Free Association** *London & Amsterdam* (2017 - 2019)  
+*Teacher*
+
+- Taught beginner and advanced classes of long-form improvisation.
+- Gave detailed feedback to students on what they did well and areas to work on.
+- Put forward changes to the advanced syllabus to improve the breadth of students improv comedy abilities.
+- Perform with students with different levels of experience, supporting their choices and creating a supportive environment for them to show off their skills.
+
+**Sofa.com** *London* (2012 - 2018)  
+*Training and Induction Leader*
+
+- Onboarded new sales team members at flagship Chelsea showroom.
+- Acted as stakeholder to ERP team, due to my extensive in-depth product and processes knowledge.
+- Created monthly showroom sales report to highlight the top performers in the showroom sales team.
+- Maintained training documents to reflect frequent changes to product line.
 
 ## Education
 
@@ -65,7 +98,7 @@ I'm comfortable and experienced speaking in public, whether it's to friends and 
 
 - Curious and passionate about code and best practices
 - Fast, independent learner
-- Great collaborator
+- Collaborated on designing, developing and demoing multiple projects
 - Methodologies and technologies learnt:
   - OOP, TDD, MVC, BDD
   - Agile/XP
@@ -81,28 +114,6 @@ I'm comfortable and experienced speaking in public, whether it's to friends and 
 
 - A-Levels: Maths (A), Physics (A), Economics (A)
 
-## Experience
-
-**Boom Chicago** *Amsterdam* (2018 - 2019)    
-*Trainer and Performer*
-- Delivered corporate training workshops on key improvisational skills - team-building, communication, collaboration and innovation - for Accenture, Nike, Danone Nutricia and Amsterdam City Council.
-- Collaboratively devised 2-hour theatre show, pitching ideas and making changes based on budget and technical limitations.
-- Performed 6 improvised comedy shows a week to an international audience.
-
-**The Free Association** *London & Amsterdam* (2017 - 2019)    
-*Teacher*
-- Taught beginner and advanced classes of long-form improvisation.
-- Gave detailed feedback to students on what they did well and areas to work on.
-- Put forward changes to the advanced syllabus to improve the breadth of students improv comedy abilities.
-- Perform with students with different levels of experience, supporting their choices and creating a supportive environment for them to show off their skills.
-
-**Sofa.com** *London* (2012 - 2018)   
-*Training and Induction Leader*
-- Onboarded new sales team members at flagship Chelsea showroom.
-- Acted as stakeholder to ERP team, due to my extensive in-depth product and processes knowledge.
-- Created monthly showroom sales report to highlight the top performers in the showroom sales team.
-- Maintained training documents to reflect frequent changes to product line.
-
 ## About Me
 
 After a year performing at an improvised comedy theatre in Amsterdam, I came back to London wanting a fresh challenge. I wanted something that would keep me stimulated and engaged on a daily basis. Be careful what you wish for! Coding is constantly surprising me, I'm finding out what programming languages can do and what I can't yet do constantly and I love it. I want to keep honing my existing skills whilst learning new ones.
@@ -113,4 +124,4 @@ After a year performing at an improvised comedy theatre in Amsterdam, I came bac
 
 :closed_lock_with_key: Escape rooms. Nothing like solving puzzles under pressure as a team and we usually find time to fit one in when we're at an improv festival.
 
-:soccer: Big fan of football, in particular Tottenham Hotspur. It's the hope that kills you.
+:soccer: Tottenham Hotspur fan. It's the hope that kills you.
