@@ -12,7 +12,7 @@
 
 ---
 
-I am a software engineer who excels under pressure and empowers teams to succeed through effective communication and collaboration. I want to work for a company that fosters a supportive learning environment, giving me the chance to try things and ~~fail~~ learn, where I can get a broad general understanding of all the tools used but specialising in a couple of areas.
+I am a test and software engineer who excels under pressure and empowers teams to succeed through effective communication and collaboration. I want to work for a company that fosters a supportive learning environment, giving me the chance to try things and ~~fail~~ learn, where I can get a broad general understanding of all the tools used but specialising in a couple of areas.
 
 ## Projects
 
